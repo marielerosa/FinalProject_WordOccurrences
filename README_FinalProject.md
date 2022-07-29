@@ -1,6 +1,6 @@
 # FinalProject_WordOccurrences
 
-This is my final project for my CEN3024C class at Valencia College. 
+Hello! Welcome to my final project for my CEN3024C class at Valencia College. 
 In this class we covererd:
 
 -Source control
@@ -15,6 +15,6 @@ In this class we covererd:
 
 -Deployment
 
-Those are also applied into my final project. 
+Those are also applied into my Word Occurrences final project!
 
 7/28/2022
