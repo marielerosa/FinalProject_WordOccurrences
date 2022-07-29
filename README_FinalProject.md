@@ -3,7 +3,7 @@
 This is my final project for my CEN3024C class at Valencia College. 
 In this class we covererd:
 
--Source control
+\nSource control
 -Documentation/JavaDoc
 -Creating a UI
 -Unit testing
